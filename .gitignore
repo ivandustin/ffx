@@ -1,2 +1,7 @@
+model
 *.txt
+!neurons.txt
+!classes.txt
 !context.txt
+!batch.txt
+!dims.txt
