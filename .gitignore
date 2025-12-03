@@ -1,4 +1,5 @@
 model
+*.ipc
 *.txt
 !neurons.txt
 !context.txt
