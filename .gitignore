@@ -3,5 +3,6 @@ model
 *.txt
 !neurons.txt
 !context.txt
+!future.txt
 !batch.txt
 !dims.txt
