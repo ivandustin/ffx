@@ -5,6 +5,7 @@ model
 !context.txt
 !epochs.txt
 !future.txt
+!margin.txt
 !batch.txt
 !steps.txt
 !dims.txt
